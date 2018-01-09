@@ -2,74 +2,67 @@
   <div class="container-fluid">
     <div class="fixed-top">
       <div style="margin: 0px 0px 0px 0px"class="row align-items-center ">
-          <div class="col-md-12 ">
-      <nav class="navbar navbar-light bg-light row justify-content-center">
+        <div class="col-md-12 ">
+          <nav class="navbar navbar-light bg-light row justify-content-center">
             <div style=" margin-right: 10px;" class="form-group col-2 ">
-          <a  class="navbar-brand" href="#">
-              <img src="../../assets/img/logo.png"  class="d-inline-block align-top" alt="">
-            </a>
-          </div>
-                <div class="col-md-6">
-                    <form class="navbar-form " role="search">
-                    <div class=" input-group input-group-lg">
-                        <span class="input-group-addon" id="sizing-addon1"><img style="width: 60%;" src="../../assets/icon/search.png"  /></span>
-                        <input  autocomplete="off" type="text" class="form-control" placeholder="O que você está precisando encontrar?" name="q">
-                    </div>
-                    </form>
-
+              <a  class="navbar-brand" href="#">
+                <img src="../../assets/img/logo.png"  class="d-inline-block align-top" alt="">
+              </a>
+            </div>
+            <div class="col-md-6">
+              <form class="navbar-form " role="search">
+                <div class=" input-group input-group-lg">
+                  <span class="input-group-addon" id="sizing-addon1"><img style="width: 60%;" src="../../assets/icon/search.png"  /></span>
+                  <input  autocomplete="off" type="text" class="form-control" placeholder="O que você está precisando encontrar?" name="q">
                 </div>
-                <div style="margin: 0px 0px 0px 0px"  class="col-md-1 ">
-                    <div class="col-md-1 ">
-                   <a href=""><button style="background-color: #f68d3d; color: white; border-radius: 22.5px; letter-spacing: 2px; " type="button" class="btn ">Anuncie aqui</button></a>
-                  </div>
-                </div>
-                <div style="margin: 0px 0px 0px 70px" class="col-md-1 ">
-                  <div class="col-md-1">
-                 <a href=""><img src="../../assets/icon/facebook.png"/></a>
-                </div>
+              </form>
+            </div>
+            <div style="margin: 0px 0px 0px 0px"  class="col-md-1 ">
+              <div class="col-md-1 ">
+                <a href=""><button style="background-color: #f68d3d; color: white; border-radius: 22.5px; letter-spacing: 2px; " type="button" class="btn ">Anuncie aqui</button></a>
               </div>
-
-        </nav>
+            </div>
+            <div style="margin: 0px 0px 0px 70px" class="col-md-1 ">
+              <div class="col-md-1">
+                <a href=""><img src="../../assets/icon/facebook.png"/></a>
+              </div>
+            </div>
+          </nav>
+        </div>
       </div>
-      </div>
-
-
-  <nav class="navbar navbar-expand-lg navbar-dark justify-content-center">
-      <div class="row align-items-center ">
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-   <ul class="navbar-nav mr-auto">
-        <li class="nav-item active ">
-          <a class="nav-link " href="#"> <img class="icon-header" src="../../assets/icon/academia.png" /> Academias </a>
-        </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="#" > <img class="icon-header" src="../../assets/icon/alimentacao.png" /> Alimentação</a>
-        </li>
-        <li class="nav-item active">
-            <a class="nav-link" href="#"> <img class="icon-header" src="../../assets/icon/roupas.png" /> Vestuários</a>
-          </li>
-          <li class="nav-item active">
-              <a class="nav-link" href="#"> <img class="icon-header" src="../../assets/icon/carro.png" /> Veiculos</a>
-            </li>
-            <li class="nav-item active">
+      <nav class="navbar navbar-expand-lg navbar-dark justify-content-center">
+        <div class="row align-items-center ">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item active ">
+                <a class="nav-link " href="#"> <img class="icon-header" src="../../assets/icon/academia.png" /> Academias </a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="#" > <img class="icon-header" src="../../assets/icon/alimentacao.png" /> Alimentação</a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="#"> <img class="icon-header" src="../../assets/icon/roupas.png" /> Vestuários</a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="#"> <img class="icon-header" src="../../assets/icon/carro.png" /> Veiculos</a>
+              </li>
+              <li class="nav-item active">
                 <a class="nav-link" href="#"> <img class="icon-header" src="../../assets/icon/saude.png" /> Saúde</a>
               </li>
               <li class="nav-item active">
                 <a class="nav-link" href="#"> <img class="icon-header" src="../../assets/icon/servicos.png" /> Serviços Diversos</a>
               </li>
               <li class="nav-item active">
-                  <a class="nav-link" href="#"> <img class="icon-header" src="../../assets/icon/mais.png" /> Mais Categorias</a>
-                </li>
-      </ul>
-
+                <a class="nav-link" href="#"> <img class="icon-header" src="../../assets/icon/mais.png" /> Mais Categorias</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
     </div>
-  </div>
-  </nav>
-  </div>
-
   </div>
 </template>
 
